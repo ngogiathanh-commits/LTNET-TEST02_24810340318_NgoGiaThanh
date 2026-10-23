@@ -1,0 +1,15 @@
+D:\Lập trình.net\test 02_3\bin\Debug\net10.0-windows\test_02_3.exe
+D:\Lập trình.net\test 02_3\bin\Debug\net10.0-windows\test_02_3.deps.json
+D:\Lập trình.net\test 02_3\bin\Debug\net10.0-windows\test_02_3.runtimeconfig.json
+D:\Lập trình.net\test 02_3\bin\Debug\net10.0-windows\test_02_3.dll
+D:\Lập trình.net\test 02_3\bin\Debug\net10.0-windows\test_02_3.pdb
+D:\Lập trình.net\test 02_3\obj\Debug\net10.0-windows\test 02_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình.net\test 02_3\obj\Debug\net10.0-windows\test 02_3.AssemblyInfoInputs.cache
+D:\Lập trình.net\test 02_3\obj\Debug\net10.0-windows\test 02_3.AssemblyInfo.cs
+D:\Lập trình.net\test 02_3\obj\Debug\net10.0-windows\test 02_3.csproj.CoreCompileInputs.cache
+D:\Lập trình.net\test 02_3\obj\Debug\net10.0-windows\test_02_3.dll
+D:\Lập trình.net\test 02_3\obj\Debug\net10.0-windows\refint\test_02_3.dll
+D:\Lập trình.net\test 02_3\obj\Debug\net10.0-windows\test_02_3.pdb
+D:\Lập trình.net\test 02_3\obj\Debug\net10.0-windows\test 02_3.genruntimeconfig.cache
+D:\Lập trình.net\test 02_3\obj\Debug\net10.0-windows\ref\test_02_3.dll
+D:\Lập trình.net\test 02_3\obj\Debug\net10.0-windows\test 02_3.csproj.Up2Date

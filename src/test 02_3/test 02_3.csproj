@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>test_02_3</RootNamespace>
+    <AssemblyName>test_02_3</AssemblyName>
+    <ApplicationTitle>Hệ thống MDI quản lý trường học &amp; đào tạo</ApplicationTitle>
+  </PropertyGroup>
+</Project>
